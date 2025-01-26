@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+keras
+tensorflow == 2.18.0
+plotly
+streamlit
+tensorboard
